@@ -1,0 +1,15 @@
+artifact_uri: file:///srv/notebooks/mlruns/0/1af84ad1d76a410e853b6c84ec84fdcf/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1af84ad1d76a410e853b6c84ec84fdcf
+run_name: /srv/outputs
+run_uuid: 1af84ad1d76a410e853b6c84ec84fdcf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734406869565
+status: 1
+tags: []
+user_id: dltk
